@@ -11,3 +11,6 @@ comandos esenciales
 
 
 otra
+
+
+cambios desde mi rama local
