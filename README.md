@@ -6,3 +6,4 @@ clases de github
 
 
 Instalar git
+comandos esenciales.
